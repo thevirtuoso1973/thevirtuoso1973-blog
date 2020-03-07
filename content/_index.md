@@ -1,7 +1,7 @@
 ---
 title: "Hello there!"
 date: 2020-03-06T23:26:34Z
-draft: true
+draft: false
 ---
 
 I will be using this site as a place to host my portfolio, résumé, personal

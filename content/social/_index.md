@@ -1,6 +1,6 @@
 ---
 title: "Socials and Links"
-draft: true
+draft: false
 layout: single
 ---
 

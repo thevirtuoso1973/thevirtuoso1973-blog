@@ -1,7 +1,7 @@
 ---
 title: "CV"
 date: 2020-03-07T09:16:45Z
-draft: true
+draft: false
 layout: single
 ---
 
