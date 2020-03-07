@@ -63,3 +63,7 @@ paginate = 5
         identifier = "social"
         name = "Social"
         url = "/social"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
