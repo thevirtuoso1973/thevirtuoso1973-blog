@@ -1,7 +1,7 @@
 ---
 title: "CLI Youtube Searcher"
 date: 2020-02-20
-draft: true
+draft: false
 ---
 _This was an older writeup of mine that I posted before I had set up this blog.
 I am reposting it for my blog now._
@@ -39,4 +39,4 @@ _Intended for Linux based systems, but may work with other operating systems._
     but if not, you may need to change the interpreter to the one you have
     installed e.g. change to python3 in line 1 of the code.
 
-![Screenshot of usage]({{ site.url }}/assets/searchTubeScreenshot.png)
+![Screenshot of usage](/searchTubeScreenshot.png)

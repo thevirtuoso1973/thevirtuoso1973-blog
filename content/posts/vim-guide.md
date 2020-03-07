@@ -1,7 +1,7 @@
 ---
 title: "The (Ultimate) Vim(rc) Guide, with plugins"
 date: 2019-10-20
-draft: true
+draft: false
 ---
 
 # Intro

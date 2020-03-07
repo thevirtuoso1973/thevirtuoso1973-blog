@@ -82,7 +82,7 @@ We now need to satisfy any dependencies for the code. The best way would be to i
 It's possible you recieved an error message. If so, read the output and try to resolve any missing dependencies (using a Google search).
 If it still doesn't work, you could just manually install the four required modules. Enter these commands one at a time:
 
-```
+```shell
 pip install fire
 pip install regex
 pip install requests
@@ -110,7 +110,7 @@ Nearly about to start training just a few more steps...
 Finally, it's time to train the model. It will take a fair bit of resources and slow down performance if you are doing anything else while training. It's best to just leave it to train and not use the computer.
 
 Open up powershell in the folder that contains your encoded dataset and enter the following command:
-```
+```shell
 python train.py --dataset dataset.npz --sample_every 50 --sample_num 2
 ```
 You can change '2' to any number of samples you want to generate as you train it. Generating samples while you train allows you to see the progress of the model.

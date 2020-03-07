@@ -1,7 +1,7 @@
 ---
 title: "Launching my blog"
 date: 2019-09-20
-draft: true
+draft: false
 ---
 
 Extending my website to include a blog. I'll now be writing articles
