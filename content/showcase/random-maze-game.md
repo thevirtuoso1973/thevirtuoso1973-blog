@@ -1,7 +1,7 @@
 ---
 title: "Randomly Generating Maze Game"
 date: 2019-08-03
-draft: true
+draft: false
 ---
 
 Uses a backtracking algo to generate new mazes each time the space bar is pressed.
