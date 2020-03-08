@@ -1,17 +1,14 @@
 ---
 title: "CV"
-date: 2020-03-07T09:16:45Z
 draft: false
 layout: single
 ---
 
-PDF Copy
---------
+## PDF Copy
 
 Here's my [full résumé.](/Chris_CV_2020_For_Online.pdf)
 
-Summary
--------
+## Summary
 
 ### Education
 
