@@ -6,7 +6,7 @@ layout: single
 
 ## PDF Copy
 
-Here's my [full résumé.](/Chris_CV_2020_For_Online.pdf)
+Here's my [full résumé.](/pdfs/Chris_CV_2020_For_Online.pdf)
 
 ## Summary
 
