@@ -18,7 +18,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello there!"
+    title = "CyberChris"
     subtitle = "A student's personal blog and portfolio."
     keywords = ""
     copyright = ""
