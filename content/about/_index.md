@@ -7,6 +7,10 @@ layout: single
 
 You can find my résumé/CV, projects and my blog on this website.
 
+Opinions shared here are entirely my own, unless explicitly specified otherwise.
+
+## Support Me
+
 <script src="https://liberapay.com/thevirtuoso1973/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/thevirtuoso1973/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
