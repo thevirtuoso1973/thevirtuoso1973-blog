@@ -5,6 +5,14 @@ type: page
 layout: single
 ---
 
+```
+              __                   __         _     
+  _______  __/ /_  ___  __________/ /_  _____(_)____
+ / ___/ / / / __ \/ _ \/ ___/ ___/ __ \/ ___/ / ___/
+/ /__/ /_/ / /_/ /  __/ /  / /__/ / / / /  / (__  ) 
+\___/\__, /_.___/\___/_/   \___/_/ /_/_/  /_/____/  
+    /____/                                          
+```
 You can find my résumé/CV, projects and my blog on this website.
 
 Opinions shared here are entirely my own, unless explicitly specified otherwise.
