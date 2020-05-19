@@ -6,9 +6,9 @@ draft: false
 
 Uses a backtracking algo to generate new mazes each time the space bar is pressed.
 
-**Space: New maze | Arrow keys: Move | Goal: Green triangle**
+_Goal: Get the red ball to the green triangle._
 
-_Note: Requires JavaScript._
+**Arrow keys: Move | Space: New maze**
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
 <div id="mazeCanvas"></div>
@@ -28,3 +28,5 @@ _Note: Requires JavaScript._
 <div style="width:100%; text-align: center;">
 <div style="display: inline-block;"><button type="button" onclick="simulateKey('SPACEBAR')">New Maze</button></div>
 </div>
+
+_Note: Requires JavaScript._

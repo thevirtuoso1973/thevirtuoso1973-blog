@@ -15,3 +15,6 @@ Check out my [socials](/social) to see where else I reside.
 ## Recruiter?
 
 Are you a recruiter? Have a look at [my project showcase](/showcase), if interested.
+
+I recommend playing my JavaScript [maze game](/showcase/random-maze-game/) to give yourself a 
+break from reading CVs.
