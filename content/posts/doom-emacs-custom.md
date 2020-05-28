@@ -2,6 +2,7 @@
 title: "Day/Night Theme Switching on Doom Emacs (+ Bonus Config)"
 date: 2019-12-27
 draft: false
+tags: ["emacs", "elisp"]
 ---
 
 # Intro
