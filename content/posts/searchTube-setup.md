@@ -34,7 +34,7 @@ _Intended for Linux based systems, but may work with other operating systems._
 3.  Enable the **Youtube Data API v3** for your project.
 4.  Assign your new API key into the variable at line 12 of my code.
 5.  Put the script somewhere on your path.
-6.  Run the script in the terminal, e.g. $ searchTube.py --max-results=10 "synthwave music"
+6.  Run the script in the terminal, e.g. `$ searchTube.py --max-results=10 "synthwave music"`
 7.  Edit the interpreter if needed. If it worked you don't need to do anything,
     but if not, you may need to change the interpreter to the one you have
     installed e.g. change to python3 in line 1 of the code.
