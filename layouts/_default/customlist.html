@@ -8,7 +8,7 @@
         {{.Content}}
     </article>
     <ul style="list-style-type: none;">
-    <!-- Ranges through content/posts/*.md -->
+    <!-- Ranges through content/showcase/*.md -->
     {{ range .Pages }}
         <li>
             {{.Date.Format "2006-01-02"}} | <a href="{{.Permalink}}">{{.Title}}</a>
