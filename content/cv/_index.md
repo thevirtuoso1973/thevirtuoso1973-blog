@@ -1,34 +1,38 @@
 ---
-title: "CV"
+title: "CV/Résumé"
 draft: false
 layout: single
 ---
 
-## PDF Copy
+## Full PDF
 
 Here's my [full résumé.](/pdfs/Chris_CV_2020_For_Online.pdf)
 
 ## Summary
 
+### Experience
+
+* Software Developer Intern - _Softwire_, Summer 2020
+
 ### Education
 
-Higher Education - University College London/UCL (2019 - Present)
+Higher Education - _University College London (UCL)_, 2019 - Present
 
-*   Computer Science (BSc)
+* Computer Science (BSc)
 
 A-Levels, September 2017 – 2019
 
-*   Mathematics – A\*
-*   Further Mathematics – A\*
-*   Computer Science – A\*
+* Mathematics – A\*
+* Further Mathematics – A\*
+* Computer Science – A\*
 
 Other:
 
-*   (Level 3) Extended Project Qualification – A\*
+* (Level 3) Extended Project Qualification – _Academic Report on the P vs NP problem_ - A\*
 
 GCSE’s, September 2015 – August 2017:
 
-_10 A\*-A GCSE Grades, with a Grade 9 in Mathematics and Grade 7 in English Language/Literature_
+* 10 A\*/ A GCSE Grades, with a Grade 9 in Mathematics
 
 ### Personal Interests:
 
