@@ -1,8 +1,11 @@
-#+TITLE: Adding an iCalendar source to calfw (feat. Doom Emacs)
+#+TITLE: Adding an iCalendar source to Calfw (feat. Doom Emacs)
 #+DATE: 2020-09-28
 #+TAGS[]: emacs, elisp
 #+DRAFT: false
 #+OPTIONS: toc:1
+
+#+CAPTION: Here's my calendar in Emacs. I use both an org-agenda and an iCalendar source.
+[[/img/calendarScreenshot.png]]
 
 * Introduction
 This will be a short post on how I use custom sources for the Doom Emacs calendar module;
