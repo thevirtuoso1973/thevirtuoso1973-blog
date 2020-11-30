@@ -12,6 +12,3 @@ Here are some links to find me on other sites.
 * [HackerRank](https://www.hackerrank.com/thevirtuoso1973)
 * [freeCodeCamp](https://www.freecodecamp.org/thevirtuoso1973)
 * [Codewars](https://www.codewars.com/users/thevirtuoso1973)
-
-_Any other accounts (in any site) that also happen to use my name/username
-may or may not actually be me._

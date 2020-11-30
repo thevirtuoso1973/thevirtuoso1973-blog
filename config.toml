@@ -35,7 +35,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "@thevirtuoso1973"
+      logoText = "CyberChris"
       logoHomeLink = "/"
     # or
     #
