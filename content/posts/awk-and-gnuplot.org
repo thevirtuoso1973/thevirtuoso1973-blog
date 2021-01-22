@@ -4,6 +4,8 @@
 #+DRAFT: false
 #+OPTIONS: toc:1
 
+/Posted to [[https://news.ycombinator.com/item?id=25863846][HN]]. Comments and discussion highly encouraged./
+
 * Introduction
 This will be a short example-based guide to (a) awk (b) gnuplot and (c) using
 them in a script.
