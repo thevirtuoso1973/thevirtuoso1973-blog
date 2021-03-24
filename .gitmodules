@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/thevirtuoso1973/thevirtuoso1973.github.io.git
 	branch = master
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
