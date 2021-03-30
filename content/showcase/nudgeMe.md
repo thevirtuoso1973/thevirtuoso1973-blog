@@ -8,6 +8,8 @@ _This was a fairly extensive project undertaken as part of one of my modules,
 and although I don't usually mention university work in `Showcase`, this is
 an exception since everything we did was self-learned._
 
+![UCL & IXN](/img/UCL_IXN_badge.png)
+
 I was team leader for a team of two (including me), and we built a full-stack
 cross-platform mobile application designed to help the UK population track and share
 their wellbeing & steps. The mobile client was built with `Flutter` and the
