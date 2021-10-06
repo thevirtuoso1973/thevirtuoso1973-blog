@@ -18,7 +18,9 @@ Opinions shared here are entirely my own, unless explicitly specified otherwise.
 
 ## Contact
 
-Here's my [PGP key](/key_pub.asc).
+Here's my:
+- [PGP key](/key_pub.asc)
+- [SSH key](/id_rsa_pub.txt)
 
 I encourage you to direct message me through Matrix `@thevirtuoso1973:matrix.org`
 for any questions or comments.
